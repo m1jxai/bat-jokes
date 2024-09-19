@@ -1,1 +1,1 @@
-here are some funny ass bat jokes, that will not harm your computer, or else's
+Here are some of my .bat files, they are totally harmless, just check the code out !!
